@@ -1,6 +1,6 @@
 # OpenWeatherMap_Streamlit_Connector
 
-Connect to OpenWeatherMap API using Streamlit by extending the built-in ExperimentalBaseConnection class  
+Connect to OpenWeatherMap API using Streamlit by extending the built-in ExperimentalBaseConnection class. 
 
 ## Getting Started
 Follow these instructions to set up **OpenWeatherMap_Streamlit_Connector** locally on your machine:
@@ -11,7 +11,7 @@ Follow these instructions to set up **OpenWeatherMap_Streamlit_Connector** local
 
 ### Installation
 1. Clone the repository to your local machine:
-```git clone https://github.com/Pavel401/Recipedia.git
+```git clone https://github.com/Vikashrajluhaniwal/OpenWeatherMap_Streamlit_Connector.git
 cd OpenWeatherMap_Streamlit_Connector
 ```
 2. Install the required dependencies:
