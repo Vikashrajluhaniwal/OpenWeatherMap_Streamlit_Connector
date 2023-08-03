@@ -11,8 +11,8 @@ Follow these instructions to set up **OpenWeatherMap_Streamlit_Connector** local
 
 ### Installation
 1. Clone the repository to your local machine:
-```git clone https://github.com/Vikashrajluhaniwal/OpenWeatherMap_Streamlit_Connector.git
-
+```
+git clone https://github.com/Vikashrajluhaniwal/OpenWeatherMap_Streamlit_Connector.git
 cd OpenWeatherMap_Streamlit_Connector
 ```
 2. Install the required dependencies:
